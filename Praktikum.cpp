@@ -6,7 +6,7 @@ int n;             //membuat variable inputan n
 
 void input (){ //procedure input
     while (true){
-        cout << "Masukan Jumlah Data Pada Array : ";
+        cout << "Masukan Data Pada Array : ";
         cin >> n;
 
         if (n <= 20){
@@ -66,6 +66,7 @@ int main(){
     display();
     system("pause");
 }
+
 
 
 
