@@ -61,11 +61,12 @@ void display(){
 }
 
 int main(){
-    inp();
+    input();
     insertionsort();
     display();
     system("pause");
 }
+
 
 
 
