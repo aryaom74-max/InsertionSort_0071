@@ -13,7 +13,7 @@ void input (){ //procedure input
             break;
         }
         else{
-            cout << "\nArray Tidak Boleh Lebih dari 20\n";
+            cout << "\nArray Tidak Bol Lebih dari 20\n";
         }
     }
     cout << endl;
@@ -66,3 +66,4 @@ int main(){
     display();
     system("pause");
 }
+
