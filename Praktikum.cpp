@@ -18,7 +18,7 @@ void input (){ //procedure input
     }
     cout << endl;
     cout << "=======================================";
-    cout << "==========Masukan Element Array==========";
+    cout << "==========Masukan Element000 Array==========";
     cout << "=======================================";
 
     for (int i = 0; i < n; i++ ){
@@ -66,6 +66,7 @@ int main(){
     display();
     system("pause");
 }
+
 
 
 
